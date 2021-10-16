@@ -1,11 +1,9 @@
 {
   "name": "WidgetEtch",
-  "id": "1031236710552472215",
+  "id": "1031269308758149466",
   "api": "1.0.0",
   "main": "code.js",
-  "editorType": [
-    "figjam"
-  ],
+  "editorType": ["figjam"],
   "containsWidget": true,
   "widgetApi": "1.0.0"
 }
