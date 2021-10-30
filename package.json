@@ -1,7 +1,7 @@
 {
-  "name": "WidgetEtch",
+  "name": "Etch-A-Jam",
   "version": "1.0.0",
-  "description": "Your Figma widget",
+  "description": "A sketching toy FigJam widget",
   "main": "code.js",
   "scripts": {
     "build": "tsc -p tsconfig.json"
